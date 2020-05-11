@@ -1,0 +1,18 @@
+body{
+  background-image: url(https://i.pinimg.com/736x/58/5a/8b/585a8b101a5568258c76e2aa1d388846.jpg);
+  background-size: cover;
+}
+h2{
+  color:red;
+}
+.insert{
+  font-size:125px;
+  opacity:0.7;
+  font-family:"Arial Black",sans-serif;
+}
+.but{
+  background-color: aqua;
+}
+.mainchil{
+  display:none;
+}
